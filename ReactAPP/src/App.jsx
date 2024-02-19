@@ -62,7 +62,7 @@ const App = () => {
           animate={text}
           variants={textVariants}
         >
-          Hello World
+          Diya Go<span style={{ color: "black" }}>SAMI</span>
         </h1>
         <motion.div className="cursor" variants={variants} animate={text} />
       </div>
